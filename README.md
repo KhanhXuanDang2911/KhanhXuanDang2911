@@ -1,4 +1,4 @@
-<h2 align="center">Hi 👋, I'm Đặng Xuân Khánh</h2>
+<h2 align="center">Hi, I'm Dang Xuan Khanh</h2>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&center=true&vCenter=true&width=450&lines=Welcome+to+my+GitHub!" alt="Typing SVG" />
@@ -25,5 +25,5 @@
 
 <!-- Footer quote (optional aesthetic touch) -->
 <p align="center">
-  <em>“Keep building, keep learning.” 🚀</em>
+  <em>“Keep building, keep learning.”</em>
 </p>
