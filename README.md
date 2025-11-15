@@ -21,17 +21,17 @@ I love building practical and efficient software solutions that solve real probl
 <img src="https://img.shields.io/badge/Git-F05033?style=flat-square&logo=git&logoColor=white"/>
 <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white"/>
 
-### GitHub Stats
-<div style="display: flex; flex-direction: column; gap: 6px; align-items: flex-start;">
+<div align="left" style="display: flex; gap: 10px;">
   <img 
-    src="https://github-readme-stats.vercel.app/api?username=KhanhXuanDang2911&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"
-    width="280"
+    src="https://github-readme-stats.vercel.app/api?username=KhanhXuanDang2911&show_icons=true&theme=tokyonight&hide_border=true"
+    width="294" 
   />
   <img 
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=KhanhXuanDang2911&layout=compact&theme=tokyonight&hide_border=true"
-    width="200"
+    width="224"
   />
 </div>
+
 
 ### Contact Me
 - **LinkedIn:** [Dang Xuan Khanh](https://www.linkedin.com/in/xu%C3%A2n-kh%C3%A1nh-%C4%91%E1%BA%B7ng-36633a397)
