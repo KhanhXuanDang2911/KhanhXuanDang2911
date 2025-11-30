@@ -23,13 +23,12 @@ I love building practical and efficient software solutions that solve real probl
 
 <div align="left" style="display: flex; gap: 10px;">
   <img 
-    src="https://github-readme-stats.vercel.app/api?username=KhanhXuanDang2911&show_icons=true&theme=tokyonight&hide_border=true"
-    width="294" 
-  />
+  src="https://github-readme-stats-git-master-rstaa-rickstaa.vercel.app/api?username=KhanhXuanDang2911&show_icons=true&theme=tokyonight&hide_border=true"
+/>
+
   <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=KhanhXuanDang2911&layout=compact&theme=tokyonight&hide_border=true"
-    width="224"
-  />
+  src="https://github-readme-stats-git-master-rstaa-rickstaa.vercel.app/api/top-langs/?username=KhanhXuanDang2911&layout=compact&theme=tokyonight&hide_border=true"
+/>
 </div>
 
 
