@@ -21,17 +21,6 @@ I love building practical and efficient software solutions that solve real probl
 <img src="https://img.shields.io/badge/Git-F05033?style=flat-square&logo=git&logoColor=white"/>
 <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white"/>
 
-<div align="left" style="display: flex; gap: 10px;">
-  <img 
-  src="https://github-readme-stats-git-master-rstaa-rickstaa.vercel.app/api?username=KhanhXuanDang2911&show_icons=true&theme=tokyonight&hide_border=true"
-/>
-
-  <img 
-  src="https://github-readme-stats-git-master-rstaa-rickstaa.vercel.app/api/top-langs/?username=KhanhXuanDang2911&layout=compact&theme=tokyonight&hide_border=true"
-/>
-</div>
-
-
 ### Contact Me
 - **LinkedIn:** [Dang Xuan Khanh](https://www.linkedin.com/in/xu%C3%A2n-kh%C3%A1nh-%C4%91%E1%BA%B7ng-36633a397)
 - **Phone:** 0335488380
